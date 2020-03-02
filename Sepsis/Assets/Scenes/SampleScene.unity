@@ -716,7 +716,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -1770,6 +1770,7 @@ GameObject:
   - component: {fileID: 1753303573}
   - component: {fileID: 1753303572}
   - component: {fileID: 1753303576}
+  - component: {fileID: 1753303577}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -1904,6 +1905,18 @@ MonoBehaviour:
   highlightOnHover: 1
   hideHighlight: []
   hoverPriority: 0
+--- !u!114 &1753303577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1753303571}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b5c0537991c7ea419fb3989da7949e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1761321362
 PrefabInstance:
   m_ObjectHideFlags: 0
