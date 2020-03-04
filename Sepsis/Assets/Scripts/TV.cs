@@ -6,13 +6,13 @@ using TMPro;
 
 public class TV : MonoBehaviour
 {
-    public TextMeshPro temp;
+    public GameObject monitorScreen;
     public GameObject tvScreen;
     // Start is called before the first frame update
     void Start()
     {
         
-        StartCoroutine(TutorialSteps());
+        
     }
 
     // Update is called once per frame
@@ -21,8 +21,23 @@ public class TV : MonoBehaviour
         
     }
 
+    public void BeginTutorial(){
+        StartCoroutine(TutorialSteps());
+    }
+
     IEnumerator TutorialSteps(){
+        tvScreen.GetComponent<TextMeshPro>().text = "Welcome to Sepsis VR";
         yield return new WaitForSeconds(5);
         tvScreen.GetComponent<TextMeshPro>().text = "First we are going to show you how to move around the room";
+        yield return new WaitForSeconds(5);
+        tvScreen.GetComponent<TextMeshPro>().text = "Press and hold the trackpad with your thumb";
+        yield return new WaitForSeconds(5);
+        tvScreen.GetComponent<TextMeshPro>().text = "This allows you to teleport around the room!";
+        yield return new WaitForSeconds(10);
+        tvScreen.GetComponent<TextMeshPro>().text = "Today we are going to learn how to detect sepsis in a patient";
+        yield return new WaitForSeconds(6);
+        tvScreen.GetComponent<TextMeshPro>().text = "Your first task is to obtain the patients information";
+        yield return new WaitForSeconds(6);
+
     }
 }
