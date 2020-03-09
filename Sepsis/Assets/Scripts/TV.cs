@@ -8,6 +8,7 @@ public class TV : MonoBehaviour
 {
     public GameObject monitorScreen;
     public GameObject tvScreen;
+    public GameObject ball;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,6 +23,7 @@ public class TV : MonoBehaviour
     }
 
     public void BeginTutorial(){
+        Destroy(ball);
         StartCoroutine(TutorialSteps());
     }
 
