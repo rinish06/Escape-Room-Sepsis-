@@ -13,12 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-03-09T16:43:55.269-05:00
-  initializedAtString: 2020-03-09T16:00:03.554-05:00
+  lastUpdatedAtString: 2020-03-30T15:57:37.421-05:00
+  initializedAtString: 2020-03-30T01:14:06.727-05:00
   entries:
-  - path: Sepsis\Assets\Models\FullBed.obj
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Models\FullBed.obj
-    projectPath: Assets\Models\FullBed.obj
+  - path: Sepsis\Assets\Audio.meta
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Audio.meta
+    projectPath: Assets\Audio.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Assets\Audio\Normal.wav
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Audio\Normal.wav
+    projectPath: Assets\Audio\Normal.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Assets\Audio\Normal.wav.meta
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Audio\Normal.wav.meta
+    projectPath: Assets\Audio\Normal.wav.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -26,17 +38,17 @@ MonoBehaviour:
     fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Models\FullBed.obj.meta
     projectPath: Assets\Models\FullBed.obj.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Assets\Models\LatexGloves.blend
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Models\LatexGloves.blend
-    projectPath: Assets\Models\LatexGloves.blend
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Sepsis\Assets\Models\Patient.fbx
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Models\Patient.fbx
+    projectPath: Assets\Models\Patient.fbx
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Assets\Models\LatexGloves.blend.meta
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Models\LatexGloves.blend.meta
-    projectPath: Assets\Models\LatexGloves.blend.meta
+  - path: Sepsis\Assets\Models\Patient.fbx.meta
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Models\Patient.fbx.meta
+    projectPath: Assets\Models\Patient.fbx.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -46,67 +58,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Sepsis\Assets\Scripts\TV.cs
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Scripts\TV.cs
-    projectPath: Assets\Scripts\TV.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Sepsis\Assets\SteamVR\InteractionSystem\Core\Prefabs\LeftRenderModel Latex.prefab
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\SteamVR\InteractionSystem\Core\Prefabs\LeftRenderModel
-      Latex.prefab
-    projectPath: Assets\SteamVR\InteractionSystem\Core\Prefabs\LeftRenderModel Latex.prefab
+  - path: Sepsis\Assets\Scripts\Heartbeat.cs
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Scripts\Heartbeat.cs
+    projectPath: Assets\Scripts\Heartbeat.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Assets\SteamVR\InteractionSystem\Core\Prefabs\LeftRenderModel Latex.prefab.meta
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\SteamVR\InteractionSystem\Core\Prefabs\LeftRenderModel
-      Latex.prefab.meta
-    projectPath: Assets\SteamVR\InteractionSystem\Core\Prefabs\LeftRenderModel Latex.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Assets\SteamVR\InteractionSystem\Core\Prefabs\Player.prefab
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\SteamVR\InteractionSystem\Core\Prefabs\Player.prefab
-    projectPath: Assets\SteamVR\InteractionSystem\Core\Prefabs\Player.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Sepsis\Assets\SteamVR\InteractionSystem\Core\Prefabs\RightRenderModel Latex.prefab
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\SteamVR\InteractionSystem\Core\Prefabs\RightRenderModel
-      Latex.prefab
-    projectPath: Assets\SteamVR\InteractionSystem\Core\Prefabs\RightRenderModel Latex.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Assets\SteamVR\InteractionSystem\Core\Prefabs\RightRenderModel Latex.prefab.meta
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\SteamVR\InteractionSystem\Core\Prefabs\RightRenderModel
-      Latex.prefab.meta
-    projectPath: Assets\SteamVR\InteractionSystem\Core\Prefabs\RightRenderModel Latex.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Assets\SteamVR\Models\vr_gloves_left_latex.fbx
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\SteamVR\Models\vr_gloves_left_latex.fbx
-    projectPath: Assets\SteamVR\Models\vr_gloves_left_latex.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Assets\SteamVR\Models\vr_gloves_left_latex.fbx.meta
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\SteamVR\Models\vr_gloves_left_latex.fbx.meta
-    projectPath: Assets\SteamVR\Models\vr_gloves_left_latex.fbx.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Assets\SteamVR\Models\vr_gloves_right_latex.fbx
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\SteamVR\Models\vr_gloves_right_latex.fbx
-    projectPath: Assets\SteamVR\Models\vr_gloves_right_latex.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Assets\SteamVR\Models\vr_gloves_right_latex.fbx.meta
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\SteamVR\Models\vr_gloves_right_latex.fbx.meta
-    projectPath: Assets\SteamVR\Models\vr_gloves_right_latex.fbx.meta
+  - path: Sepsis\Assets\Scripts\Heartbeat.cs.meta
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Assets\Scripts\Heartbeat.cs.meta
+    projectPath: Assets\Scripts\Heartbeat.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -116,57 +76,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Sepsis\Library\Artifacts\01\01eeea2225e8ece15bbbfabcf66023af
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\01\01eeea2225e8ece15bbbfabcf66023af
-    projectPath: Library\Artifacts\01\01eeea2225e8ece15bbbfabcf66023af
+  - path: Sepsis\Library\Artifacts\16\16c9c2b9a1c82f3da117476e326ce0fe
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\16\16c9c2b9a1c82f3da117476e326ce0fe
+    projectPath: Library\Artifacts\16\16c9c2b9a1c82f3da117476e326ce0fe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\03\035cc859ec21ccc4f334450f7eb84e51
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\03\035cc859ec21ccc4f334450f7eb84e51
-    projectPath: Library\Artifacts\03\035cc859ec21ccc4f334450f7eb84e51
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Sepsis\Library\Artifacts\19\19237a54608d07d69cb2dd143ab582f5
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\19\19237a54608d07d69cb2dd143ab582f5
-    projectPath: Library\Artifacts\19\19237a54608d07d69cb2dd143ab582f5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Sepsis\Library\Artifacts\2d\2d6494a51f2927882d3fbfa0ec6e48b3
     fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\2d\2d6494a51f2927882d3fbfa0ec6e48b3
     projectPath: Library\Artifacts\2d\2d6494a51f2927882d3fbfa0ec6e48b3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Sepsis\Library\Artifacts\2f\2faaf4cd4daa29c6b71def2d562d6bf9
     fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\2f\2faaf4cd4daa29c6b71def2d562d6bf9
     projectPath: Library\Artifacts\2f\2faaf4cd4daa29c6b71def2d562d6bf9
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Sepsis\Library\Artifacts\43\438600c8b2c382631b86a03a83e99fe8
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\43\438600c8b2c382631b86a03a83e99fe8
+    projectPath: Library\Artifacts\43\438600c8b2c382631b86a03a83e99fe8
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\2f\2ff0105f256358e1f02955ec406d31ed
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\2f\2ff0105f256358e1f02955ec406d31ed
-    projectPath: Library\Artifacts\2f\2ff0105f256358e1f02955ec406d31ed
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Sepsis\Library\Artifacts\36\36e9966b50cc505bc148728b7b892833
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\36\36e9966b50cc505bc148728b7b892833
-    projectPath: Library\Artifacts\36\36e9966b50cc505bc148728b7b892833
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Sepsis\Library\Artifacts\38\38a10a91f2a97351ef629dbcebc4f937
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\38\38a10a91f2a97351ef629dbcebc4f937
-    projectPath: Library\Artifacts\38\38a10a91f2a97351ef629dbcebc4f937
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Sepsis\Library\Artifacts\4e\4e34939002664687e7f555011becf606
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\4e\4e34939002664687e7f555011becf606
-    projectPath: Library\Artifacts\4e\4e34939002664687e7f555011becf606
+  - path: Sepsis\Library\Artifacts\51\517f38d562a34ad79d76d4ce2a115cb5
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\51\517f38d562a34ad79d76d4ce2a115cb5
+    projectPath: Library\Artifacts\51\517f38d562a34ad79d76d4ce2a115cb5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -174,23 +110,35 @@ MonoBehaviour:
     fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\52\5221e8e84d1825463c2d8897f7d1aad3
     projectPath: Library\Artifacts\52\5221e8e84d1825463c2d8897f7d1aad3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\62\62fa1d055ba44fb5daf0d29717ae50c3
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\62\62fa1d055ba44fb5daf0d29717ae50c3
-    projectPath: Library\Artifacts\62\62fa1d055ba44fb5daf0d29717ae50c3
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Sepsis\Library\Artifacts\5b\5baa07442e6f81d2408865d7cb32282b
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\5b\5baa07442e6f81d2408865d7cb32282b
+    projectPath: Library\Artifacts\5b\5baa07442e6f81d2408865d7cb32282b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\6f\6f44320c1ad8ba4a7fc30779fb7734a1
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\6f\6f44320c1ad8ba4a7fc30779fb7734a1
-    projectPath: Library\Artifacts\6f\6f44320c1ad8ba4a7fc30779fb7734a1
+  - path: Sepsis\Library\Artifacts\65\6569b7b9230a81bddc1962e4566c2e02
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\65\6569b7b9230a81bddc1962e4566c2e02
+    projectPath: Library\Artifacts\65\6569b7b9230a81bddc1962e4566c2e02
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\88\882d9d54d2357730cbf9862c1bca89d4
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\88\882d9d54d2357730cbf9862c1bca89d4
-    projectPath: Library\Artifacts\88\882d9d54d2357730cbf9862c1bca89d4
+  - path: Sepsis\Library\Artifacts\6a\6ae3b56d3e5f8b8e34aa86b8658ba5ff
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\6a\6ae3b56d3e5f8b8e34aa86b8658ba5ff
+    projectPath: Library\Artifacts\6a\6ae3b56d3e5f8b8e34aa86b8658ba5ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Library\Artifacts\81\81ee8285713fbe1b7c01c093bb59dc55
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\81\81ee8285713fbe1b7c01c093bb59dc55
+    projectPath: Library\Artifacts\81\81ee8285713fbe1b7c01c093bb59dc55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Library\Artifacts\83\83884cf4c174be1b85a523f703d5b362
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\83\83884cf4c174be1b85a523f703d5b362
+    projectPath: Library\Artifacts\83\83884cf4c174be1b85a523f703d5b362
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -198,86 +146,56 @@ MonoBehaviour:
     fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\97\97240458eb6754f36e2013eac0761e3a
     projectPath: Library\Artifacts\97\97240458eb6754f36e2013eac0761e3a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\98\984a1c5c04a73da8d7f46b97907bd61e
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\98\984a1c5c04a73da8d7f46b97907bd61e
-    projectPath: Library\Artifacts\98\984a1c5c04a73da8d7f46b97907bd61e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\99\9951c5cb773ad554d08438f931d71a52
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\99\9951c5cb773ad554d08438f931d71a52
-    projectPath: Library\Artifacts\99\9951c5cb773ad554d08438f931d71a52
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Sepsis\Library\Artifacts\a4\a4638a52dc252ae270e2608678b8f0b2
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\a4\a4638a52dc252ae270e2608678b8f0b2
-    projectPath: Library\Artifacts\a4\a4638a52dc252ae270e2608678b8f0b2
+  - path: Sepsis\Library\Artifacts\b3\b39089cd235eb1d3080eb9c16adef53f
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\b3\b39089cd235eb1d3080eb9c16adef53f
+    projectPath: Library\Artifacts\b3\b39089cd235eb1d3080eb9c16adef53f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\bc\bc72dbbb22a3fe92e35f3a38ec59cd0f
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\bc\bc72dbbb22a3fe92e35f3a38ec59cd0f
-    projectPath: Library\Artifacts\bc\bc72dbbb22a3fe92e35f3a38ec59cd0f
+  - path: Sepsis\Library\Artifacts\b8\b86ad1777e3a54fa51feeed3d2652a86
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\b8\b86ad1777e3a54fa51feeed3d2652a86
+    projectPath: Library\Artifacts\b8\b86ad1777e3a54fa51feeed3d2652a86
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\be\be0747a0d88de8a5053f131df45a423e
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\be\be0747a0d88de8a5053f131df45a423e
-    projectPath: Library\Artifacts\be\be0747a0d88de8a5053f131df45a423e
+  - path: Sepsis\Library\Artifacts\be\be53d08614bb7f22057938ff22f9a536
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\be\be53d08614bb7f22057938ff22f9a536
+    projectPath: Library\Artifacts\be\be53d08614bb7f22057938ff22f9a536
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Library\Artifacts\c6\c60a7ce7db5a6625ec668e0db21b0a65
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\c6\c60a7ce7db5a6625ec668e0db21b0a65
+    projectPath: Library\Artifacts\c6\c60a7ce7db5a6625ec668e0db21b0a65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Library\Artifacts\cd\cdb1567b43c2a3bdbb116395c22c17f4
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\cd\cdb1567b43c2a3bdbb116395c22c17f4
+    projectPath: Library\Artifacts\cd\cdb1567b43c2a3bdbb116395c22c17f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Library\Artifacts\de\de56c806a98ef377628e43cee58407c8
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\de\de56c806a98ef377628e43cee58407c8
+    projectPath: Library\Artifacts\de\de56c806a98ef377628e43cee58407c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Library\Artifacts\fc\fc301775a299153928fcb255bc1c1482
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\fc\fc301775a299153928fcb255bc1c1482
+    projectPath: Library\Artifacts\fc\fc301775a299153928fcb255bc1c1482
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Library\CurrentLayout-default.dwlt
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Sepsis\Library\Artifacts\be\be14dbd31a1ed8ac9a6ba218036617bb
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\be\be14dbd31a1ed8ac9a6ba218036617bb
-    projectPath: Library\Artifacts\be\be14dbd31a1ed8ac9a6ba218036617bb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\cb\cb8a16d5fbab25e4ea6537f1939f53a2
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\cb\cb8a16d5fbab25e4ea6537f1939f53a2
-    projectPath: Library\Artifacts\cb\cb8a16d5fbab25e4ea6537f1939f53a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\d6\d65dbb31d68c10372af39b6195c52979
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\d6\d65dbb31d68c10372af39b6195c52979
-    projectPath: Library\Artifacts\d6\d65dbb31d68c10372af39b6195c52979
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Sepsis\Library\Artifacts\dd\ddff33e24fb99a72fb902f395279e8cf
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\dd\ddff33e24fb99a72fb902f395279e8cf
-    projectPath: Library\Artifacts\dd\ddff33e24fb99a72fb902f395279e8cf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Sepsis\Library\Artifacts\de\def75a07b44b4f54862704c1714c6dba
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\de\def75a07b44b4f54862704c1714c6dba
-    projectPath: Library\Artifacts\de\def75a07b44b4f54862704c1714c6dba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Sepsis\Library\Artifacts\ed\ed3e4d5ccd9a0cbb6fe99dcb7c9fe222
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\ed\ed3e4d5ccd9a0cbb6fe99dcb7c9fe222
-    projectPath: Library\Artifacts\ed\ed3e4d5ccd9a0cbb6fe99dcb7c9fe222
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Library\Artifacts\ee\ee18393fca6213e52f2c46da7b5ab17e
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\ee\ee18393fca6213e52f2c46da7b5ab17e
-    projectPath: Library\Artifacts\ee\ee18393fca6213e52f2c46da7b5ab17e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Sepsis\Library\Artifacts\f7\f783227dfb5a6a17c0edc832d1eaac37
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\Artifacts\f7\f783227dfb5a6a17c0edc832d1eaac37
-    projectPath: Library\Artifacts\f7\f783227dfb5a6a17c0edc832d1eaac37
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    workTreeStatus: 3
   - path: Sepsis\Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
@@ -404,6 +322,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Sepsis\Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Sepsis\Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
     fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
     projectPath: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
@@ -425,18 +349,6 @@ MonoBehaviour:
   - path: Sepsis\Library\ScriptAssemblies\Assembly-CSharp.pdb
     fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Sepsis\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Sepsis\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -512,45 +424,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Sepsis\Library\StateCache\Hierarchy\2cc124-16bace2df92ce7146b.json
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\StateCache\Hierarchy\2cc124-16bace2df92ce7146b.json
-    projectPath: Library\StateCache\Hierarchy\2cc124-16bace2df92ce7146b.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Sepsis\Library\StateCache\Hierarchy\2cc124-dc06161b6d97feb419.json
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\StateCache\Hierarchy\2cc124-dc06161b6d97feb419.json
-    projectPath: Library\StateCache\Hierarchy\2cc124-dc06161b6d97feb419.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Sepsis\Library\StateCache\Hierarchy\2cc124-mainStage.json
     fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\StateCache\Hierarchy\2cc124-mainStage.json
     projectPath: Library\StateCache\Hierarchy\2cc124-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Sepsis\Library\StateCache\SceneView\899357-16bace2df92ce7146b.json
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\StateCache\SceneView\899357-16bace2df92ce7146b.json
-    projectPath: Library\StateCache\SceneView\899357-16bace2df92ce7146b.json
+  - path: Sepsis\Library\StateCache\Hierarchy\9e9f91-mainStage.json
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\StateCache\Hierarchy\9e9f91-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\9e9f91-mainStage.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Library\StateCache\SceneView\899357-dc06161b6d97feb419.json
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\StateCache\SceneView\899357-dc06161b6d97feb419.json
-    projectPath: Library\StateCache\SceneView\899357-dc06161b6d97feb419.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Sepsis\Library\StateCache\SceneView\899357-mainStage.json
     fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\StateCache\SceneView\899357-mainStage.json
     projectPath: Library\StateCache\SceneView\899357-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Sepsis\Library\StateCache\SceneView\e4aa65-mainStage.json
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Library\StateCache\SceneView\e4aa65-mainStage.json
+    projectPath: Library\StateCache\SceneView\e4aa65-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Sepsis\Temp\__Backupscenes\0.backup
     fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Temp\importedAudioTempPreview
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\importedAudioTempPreview
+    projectPath: Temp\importedAudioTempPreview
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -572,87 +478,141 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-0852b8039c7994147aa2f39d59218016
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-0852b8039c7994147aa2f39d59218016
-    projectPath: Temp\UnityTempFile-0852b8039c7994147aa2f39d59218016
+  - path: Sepsis\Temp\UnityTempFile-0572d1dd55d7d994bbda4af2547a2056
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-0572d1dd55d7d994bbda4af2547a2056
+    projectPath: Temp\UnityTempFile-0572d1dd55d7d994bbda4af2547a2056
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-2483e991fc7d03b44a6561eef9312d14
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-2483e991fc7d03b44a6561eef9312d14
-    projectPath: Temp\UnityTempFile-2483e991fc7d03b44a6561eef9312d14
+  - path: Sepsis\Temp\UnityTempFile-09ecac270b2709b44a3c2aecbeb8ab73
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-09ecac270b2709b44a3c2aecbeb8ab73
+    projectPath: Temp\UnityTempFile-09ecac270b2709b44a3c2aecbeb8ab73
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-2fa34069f36cf4147bf5006b00c90467
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-2fa34069f36cf4147bf5006b00c90467
-    projectPath: Temp\UnityTempFile-2fa34069f36cf4147bf5006b00c90467
+  - path: Sepsis\Temp\UnityTempFile-187fb22b801e9ea4eaf6c44038c2db42
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-187fb22b801e9ea4eaf6c44038c2db42
+    projectPath: Temp\UnityTempFile-187fb22b801e9ea4eaf6c44038c2db42
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-3c08aab1dec89c548af8ab96eed71cb8
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-3c08aab1dec89c548af8ab96eed71cb8
-    projectPath: Temp\UnityTempFile-3c08aab1dec89c548af8ab96eed71cb8
+  - path: Sepsis\Temp\UnityTempFile-1b0a6035a61a98445993692234916b4a
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-1b0a6035a61a98445993692234916b4a
+    projectPath: Temp\UnityTempFile-1b0a6035a61a98445993692234916b4a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-3dda78ead00a640449ccbd55e91a0232
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-3dda78ead00a640449ccbd55e91a0232
-    projectPath: Temp\UnityTempFile-3dda78ead00a640449ccbd55e91a0232
+  - path: Sepsis\Temp\UnityTempFile-29354fe7b2980ab4f8737faaa9361743
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-29354fe7b2980ab4f8737faaa9361743
+    projectPath: Temp\UnityTempFile-29354fe7b2980ab4f8737faaa9361743
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-8873d0e5101f3e1489cbb959fe941648
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-8873d0e5101f3e1489cbb959fe941648
-    projectPath: Temp\UnityTempFile-8873d0e5101f3e1489cbb959fe941648
+  - path: Sepsis\Temp\UnityTempFile-29f2c296216ac6746b2715f4eeadc30c
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-29f2c296216ac6746b2715f4eeadc30c
+    projectPath: Temp\UnityTempFile-29f2c296216ac6746b2715f4eeadc30c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-a5f8fb7f0655f5941aa5c97e4cb4b640
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-a5f8fb7f0655f5941aa5c97e4cb4b640
-    projectPath: Temp\UnityTempFile-a5f8fb7f0655f5941aa5c97e4cb4b640
+  - path: Sepsis\Temp\UnityTempFile-398d91c333f56674d9b08d1ccf59d2dc
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-398d91c333f56674d9b08d1ccf59d2dc
+    projectPath: Temp\UnityTempFile-398d91c333f56674d9b08d1ccf59d2dc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-c253453a74f8681448ac8d99ff3f864f
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-c253453a74f8681448ac8d99ff3f864f
-    projectPath: Temp\UnityTempFile-c253453a74f8681448ac8d99ff3f864f
+  - path: Sepsis\Temp\UnityTempFile-3f4afb5a160033742aaaee181614b102
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-3f4afb5a160033742aaaee181614b102
+    projectPath: Temp\UnityTempFile-3f4afb5a160033742aaaee181614b102
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-c95c861e3d06a6a4c933b9c3d7c75402
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-c95c861e3d06a6a4c933b9c3d7c75402
-    projectPath: Temp\UnityTempFile-c95c861e3d06a6a4c933b9c3d7c75402
+  - path: Sepsis\Temp\UnityTempFile-48fa582276f10354d81dba741d57a312
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-48fa582276f10354d81dba741d57a312
+    projectPath: Temp\UnityTempFile-48fa582276f10354d81dba741d57a312
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-d548b1691ba73c944943768680c80fa4
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-d548b1691ba73c944943768680c80fa4
-    projectPath: Temp\UnityTempFile-d548b1691ba73c944943768680c80fa4
+  - path: Sepsis\Temp\UnityTempFile-4af9cfd6b6e856c48bab767c02b8d375
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-4af9cfd6b6e856c48bab767c02b8d375
+    projectPath: Temp\UnityTempFile-4af9cfd6b6e856c48bab767c02b8d375
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-dc43249c50211f04cbf6699853e6b58f
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-dc43249c50211f04cbf6699853e6b58f
-    projectPath: Temp\UnityTempFile-dc43249c50211f04cbf6699853e6b58f
+  - path: Sepsis\Temp\UnityTempFile-4e35b5843182aa74b96c9f4732dbe511
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-4e35b5843182aa74b96c9f4732dbe511
+    projectPath: Temp\UnityTempFile-4e35b5843182aa74b96c9f4732dbe511
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-e503b8fcf02b18246998c32eaaf5943f
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-e503b8fcf02b18246998c32eaaf5943f
-    projectPath: Temp\UnityTempFile-e503b8fcf02b18246998c32eaaf5943f
+  - path: Sepsis\Temp\UnityTempFile-53b5b0b8c0c4df34496f047076e66ab7
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-53b5b0b8c0c4df34496f047076e66ab7
+    projectPath: Temp\UnityTempFile-53b5b0b8c0c4df34496f047076e66ab7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-e9332d53773ff614d9bc9847cce9d65a
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-e9332d53773ff614d9bc9847cce9d65a
-    projectPath: Temp\UnityTempFile-e9332d53773ff614d9bc9847cce9d65a
+  - path: Sepsis\Temp\UnityTempFile-6664bf1b88868ed4b8e7ef93d4ae513c
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-6664bf1b88868ed4b8e7ef93d4ae513c
+    projectPath: Temp\UnityTempFile-6664bf1b88868ed4b8e7ef93d4ae513c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Sepsis\Temp\UnityTempFile-f844a481c89732742b1057aac3227669
-    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-f844a481c89732742b1057aac3227669
-    projectPath: Temp\UnityTempFile-f844a481c89732742b1057aac3227669
+  - path: Sepsis\Temp\UnityTempFile-7e0abf35a8b4c274d8be3191504f3a89
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-7e0abf35a8b4c274d8be3191504f3a89
+    projectPath: Temp\UnityTempFile-7e0abf35a8b4c274d8be3191504f3a89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Temp\UnityTempFile-806e50ece8086e2438e609d3da9f4904
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-806e50ece8086e2438e609d3da9f4904
+    projectPath: Temp\UnityTempFile-806e50ece8086e2438e609d3da9f4904
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Temp\UnityTempFile-934e1d6ec9ec22848a34f9c1860e81f7
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-934e1d6ec9ec22848a34f9c1860e81f7
+    projectPath: Temp\UnityTempFile-934e1d6ec9ec22848a34f9c1860e81f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Temp\UnityTempFile-a44297fab7a5462459fbd129d3ae96c1
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-a44297fab7a5462459fbd129d3ae96c1
+    projectPath: Temp\UnityTempFile-a44297fab7a5462459fbd129d3ae96c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Temp\UnityTempFile-a9fda9aa4996a1640b4446f6603932f2
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-a9fda9aa4996a1640b4446f6603932f2
+    projectPath: Temp\UnityTempFile-a9fda9aa4996a1640b4446f6603932f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Temp\UnityTempFile-accebdf72e384b048a1ef2358fb472f4
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-accebdf72e384b048a1ef2358fb472f4
+    projectPath: Temp\UnityTempFile-accebdf72e384b048a1ef2358fb472f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Temp\UnityTempFile-cdc86cf5b27c641458501e220ca04cee
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-cdc86cf5b27c641458501e220ca04cee
+    projectPath: Temp\UnityTempFile-cdc86cf5b27c641458501e220ca04cee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Temp\UnityTempFile-d18e6f4f77b1f164c9e3aa128856fce9
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-d18e6f4f77b1f164c9e3aa128856fce9
+    projectPath: Temp\UnityTempFile-d18e6f4f77b1f164c9e3aa128856fce9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Temp\UnityTempFile-fbdb1896b6ed99047bba76f57264ab62
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-fbdb1896b6ed99047bba76f57264ab62
+    projectPath: Temp\UnityTempFile-fbdb1896b6ed99047bba76f57264ab62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Sepsis\Temp\UnityTempFile-feb86d0a62532f34789690b3f833e6cd
+    fullPath: C:\VRClass\EscapeRoom\Escape-Room-Sepsis-\Sepsis\Temp\UnityTempFile-feb86d0a62532f34789690b3f833e6cd
+    projectPath: Temp\UnityTempFile-feb86d0a62532f34789690b3f833e6cd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

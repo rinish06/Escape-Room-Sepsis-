@@ -2,7 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - BallCollision
-    - Patient
+    - Heartbeat
     - TV
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
@@ -11,7 +11,6 @@ ScriptsOnlyBuild:
     - GitHub.Unity.GitLocksCache
     - GitHub.Unity.GitStatusCache
     - GitHub.Unity.RepositoryInfoCache
-    - GitHub.Unity.Window
     SteamVR.dll:
     - Valve.VR.InteractionSystem.BodyCollider
     - Valve.VR.InteractionSystem.ControllerButtonHints
@@ -167,8 +166,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12696}
     - Class: 114
-      Script: {instanceID: 12706}
-    - Class: 114
       Script: {instanceID: 12760}
     - Class: 114
       Script: {instanceID: 12904}
@@ -212,6 +209,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13732}
     - Class: 114
       Script: {instanceID: 13756}
+    - Class: 114
+      Script: {instanceID: 22356}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1643,7 +1642,13 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71af023e3f450192af6ff3e33f267874
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Heartbeat
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Sepsis10/Sepsis.exe
+  playerPath: C:/VRClass/EscapeRoom/Build2/Sepsis.exe
