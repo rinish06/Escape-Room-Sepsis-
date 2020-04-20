@@ -13,13 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-<<<<<<< HEAD
-  lastUpdatedAtString: 2020-03-25T11:06:57.074-05:00
-  initializedAtString: 2020-03-25T11:06:57.074-05:00
-=======
-  lastUpdatedAtString: 2020-03-30T01:14:05.622-05:00
-  initializedAtString: 2020-03-30T01:14:05.622-05:00
->>>>>>> ffaebcd6683f35018827953a2a91e65e0121850e
+  lastUpdatedAtString: 2020-04-19T15:38:46.207-05:00
+  initializedAtString: 2020-04-19T15:38:46.207-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/rinish06/Escape-Room-Sepsis-.git
