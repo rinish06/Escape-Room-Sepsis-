@@ -9,10 +9,12 @@ public class TV : MonoBehaviour
     public GameObject monitorScreen;
     public GameObject tvScreen;
     public GameObject ball;
+    private int TVTextIndex = 0;
+    private List<string> TVTexts = new List<string>() {"Welcome to Sepsis VR", "First we are going to show you how to move around the room", "Press and hold the trackpad with your thumb", "This allows you to teleport around the room!"
+    , "Today we are going to learn how to detect sepsis in a patient", "Your first task is to obtain the patients information"};
     // Start is called before the first frame update
     void Start()
     {
-        
         
     }
 
@@ -20,6 +22,19 @@ public class TV : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void NextText(){
+        TVTextIndex++;
+        tvScreen.GetComponent<TextMeshPro>().text = TVTexts[TVTextIndex];
+    }
+
+    public void BackText(){
+        if(TVTextIndex==0){
+            TVTextIndex++;
+        }
+        TVTextIndex--;
+        tvScreen.GetComponent<TextMeshPro>().text = TVTexts[TVTextIndex];
     }
 
     public void BeginTutorial(){

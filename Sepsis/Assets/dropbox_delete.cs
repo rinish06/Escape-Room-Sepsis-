@@ -5,7 +5,7 @@ using UnityEngine;
 public class dropbox_delete : MonoBehaviour
 {
   void OnTriggerEnter(Collider BookCollider){
-      if(col.tag == "Book"){
+      if(BookCollider.tag == "Book"){
            Destroy(BookCollider.gameObject);
       }
  }
