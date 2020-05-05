@@ -11,7 +11,7 @@ public class TV : MonoBehaviour
     public GameObject ball;
     private int TVTextIndex = 0;
     private List<string> TVTexts = new List<string>() {"Welcome to Sepsis VR", "First we are going to show you how to move around the room", "Press and hold the trackpad with your thumb", "This allows you to teleport around the room!"
-    , "Today we are going to learn how to detect sepsis in a patient", "Your first task is to obtain the patients information"};
+    , "Today we are going to learn how to detect sepsis in a patient", "Your first task is to obtain the patient's information", "Please place the stethescope near the patient and then proceed to hit the next button", "Now you need to find the proper lab form", "Drop what you think is the right lab form in the drop box", "Good! Now you need to read up on cultures", "Find the proper book and drop it in the dropbox", "Once it is dropped, hit next", "Congratulations!"};
     // Start is called before the first frame update
     void Start()
     {
